@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SmartLock</string>
+    <string name="action_settings">Settings</string>
+    <string name="welcome_to_smartLock">Welcome To SmartLock!</string>
+    <string name="unlock">Unlock!</string>
+    <string name="lock">Lock!</string>
+    <string name="lock_main_desc">main activity lock image</string>
+    <string name="status">Status:</string>
+</resources>
